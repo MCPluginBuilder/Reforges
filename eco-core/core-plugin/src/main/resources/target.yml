@@ -16,11 +16,32 @@ axe:
   items:
     - "#items_axes"
 
+sword:
+  slot: hands
+  items:
+    - "#items_swords"
+
+hoe:
+  slot: hands
+  items:
+    - "#items_hoes"
+
+shovel:
+  slot: hands
+  items:
+    - "#items_shovels"
+
+spear:
+  slot: hands
+  items:
+    - "#items_spears"
+
 melee:
   slot: hands
   items:
     - "#items_axes"
     - "#items_swords"
+    - "#items_spears"
 
 trident:
   slot: hands
